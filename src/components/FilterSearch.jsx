@@ -4,6 +4,7 @@ export default function FilterSearch() {
   return (
     <div>
       Hello
+      This filter search
     </div>
   )
 }
